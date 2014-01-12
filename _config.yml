@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Rashid's blog
-tagline:          ' Programmer'
+title:            Just Another Programming Blog
+tagline:          'Rashid Khan'
 description:      ''
 url:              http://rashoodkhan.github.io
 
