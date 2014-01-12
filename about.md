@@ -4,27 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a Computer Science & Engineering student at National Institute of Technology, Warangal (India), presently in my third(pre-final) year of study.
 
-There are currently two themes built on Poole:
+*Programmer by choice* - I have been programming for about 4 years now. Wrote my first line of code in Visual Basic and then moved to learning Java as a subject in school. Although at that time most of OOP didn't make sense, but today its one powerful concept I use for everyday problem solving. I propagate Object Oriented Programming and consider everything as an Object in this world!
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+*Then came Linux* - Something called a *shell* or *terminal* was introduced to me in first year of college during the Programming Lab. I fell in love with the Terminal the moment I started using it, and became sure that Computers were meant for me. The first linux distribution I used was in 2011 which was Ubuntu 11.04. I did all sorts of experiments with Linux Distributions in my second year of college, and nearly every week I was formatting my computer and installing a new Operating System, and it was during this time I found GNOME Desktop Environment with Fedora distribution and really liked it alot.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+*Present* - I am working on take over the world as other Geeks (Its ON!) using Coffee & Pizza (Coffee + Pizza = Code). I like to code from system level C to web development in Python, and everything in between which you can think of. Working on some cool projects which you would be notified by my [blog posts](http://imrashid.com)
 
 Thanks for reading!
