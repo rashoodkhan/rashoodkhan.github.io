@@ -1,4 +1,4 @@
 rashoodkhan.github.io
 =====================
 
-Rashid's Blog
+The blog is built using Jekyll and Lanyon.
