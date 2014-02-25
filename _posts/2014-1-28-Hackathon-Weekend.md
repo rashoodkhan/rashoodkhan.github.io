@@ -24,9 +24,5 @@ Now coming to what my team did, well we tried to stick to the basics and thought
 To summarize, the last weekend was a blast for me. Google Glass + Vaccination App.
 
 [glass]:	http://www.google.com/glass/start/
-<<<<<<< HEAD
-[lakshya]:	http://thelakshyafoundation.org
-=======
 [lakshya]:	http://thelakshyafoundation.org
 [devthon]:  http://devthon.org
->>>>>>> 8b6ce5a16be59264b59196a65faee9af39301370

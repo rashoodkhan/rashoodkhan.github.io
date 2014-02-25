@@ -26,3 +26,4 @@ The photo gallery for the event can be found [here][photo].
 [shrey]: https://plus.google.com/+ShreyMalhotra/about
 [step]:	https://plus.google.com/+StephanieLiu/about
 [seth]: https://plus.google.com/+SethLadd/about
+[photo]: https://plus.google.com/b/117477367012613184353/photos
