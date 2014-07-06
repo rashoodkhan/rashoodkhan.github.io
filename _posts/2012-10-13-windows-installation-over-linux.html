@@ -1,0 +1,23 @@
+---
+title: "Windows installation over Linux"
+layout: "post"
+permalink: "/windows-installation-over-linux/"
+uuid: "8898901367785479960"
+guid: "tag:blogger.com,1999:blog-1613114477173512339.post-8898901367785479960"
+date: "2012-10-13 13:39:00"
+updated: "2012-10-13 13:39:34"
+description: 
+blogger:
+    siteid: "1613114477173512339"
+    postid: "8898901367785479960"
+    comments: "0"
+categories: [GRUB Repair, Boot Repair, Windows Installation]
+author: 
+    name: "Rashid Khan"
+    url: "https://plus.google.com/107072042175204606842?rel=author"
+    image: "//lh4.googleusercontent.com/-gHMIPpUOF0M/AAAAAAAAAAI/AAAAAAAAA_k/GesLRLi6384/s512-c/photo.jpg"
+---
+
+<div class="css-full-post-content js-full-post-content">
+<div dir="ltr" style="text-align: left;" trbidi="on"><span style="font-family: Arial, Helvetica, sans-serif;">If you are running a Linux OS, and want to install a Windows OS over it then you have landed at the right place. This post guides you for successful installation of Windows over your Linux OS.</span><br /><span style="font-family: Arial, Helvetica, sans-serif;"><br /></span><span style="font-family: Arial, Helvetica, sans-serif;">First of all, if you have not yet partitioned your Hard Drive properly its a bit of problem. If you have your Linux on ext&nbsp;format then installing windows is not possible, Windows does not recognize the ext file system. Windows works perfectly on NTFS system. To do so follow the steps:</span><br /><br /><ol style="text-align: left;"><li><span style="font-family: Arial, Helvetica, sans-serif;">Make a Live OS Disk of any Linux Distro ( I had used Linux Mint 13 - KDE), and boot it up with the Live OS.</span></li><li><span style="font-family: Arial, Helvetica, sans-serif;">Once the Live OS is running, go to Applications &gt; Disk Manager</span></li><li><span style="font-family: Arial, Helvetica, sans-serif;">Here you will see all your hard-drives with the space allocated and un-partitioned space.</span></li><li><span style="font-family: Arial, Helvetica, sans-serif;">Create a NTFS partition, with desired space for installation of Windows.</span></li></ol><div><span style="font-family: Arial, Helvetica, sans-serif;">Now you have set your machine with NTFS partition for Installation of Windows. Reboot your PC with Windows Disk/USB. The partition you created, would show up with the space you allocated. Install Windows with the settings you want.</span></div><div><span style="font-family: Arial, Helvetica, sans-serif;"><br /></span></div><div><span style="font-family: Arial, Helvetica, sans-serif;">The problem arises now, Windows when installed over Linux, removes GRUB. GRUB stands for GRand Unified Bootloader. You don't have to know much about it. It is responsible for booting your Linux Distro. Once this is removed, you will not be able to access your Linux. There are many ways to install the GRUB again. I give you a very easy way to install GRUB, its all GUI based, and hence no commands are involved. Here it goes:</span></div><div><ol style="text-align: left;"><li><span style="font-family: Arial, Helvetica, sans-serif;">Download the Boot-Repair Disk,depending upon your machine (32/42 bits) from the following link:&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif;"><a href="http://sourceforge.net/projects/ubuntu-secured/files/">http://sourceforge.net/projects/ubuntu-secured/files/</a></span></li><li><span style="font-family: Arial, Helvetica, sans-serif;">Install it on a USB using <a href="http://www.pendrivelinux.com/">http://www.pendrivelinux.com</a></span></li><li><span style="font-family: Arial, Helvetica, sans-serif;">Reboot your PC using the USB. Ubuntu must boot from the USB.</span></li><li><span style="font-family: Arial, Helvetica, sans-serif;">Click on Boot Repair, Located on the left side Applications Panel. Click yes when it asks for Update. Click on the Recommended Repair, once it opens, and there you go! Your GRUB is back, which gives you access to your Linux and Windows.</span></li></ol><div class="separator" style="clear: both; text-align: center;"><a href="http://pix.toile-libre.org/upload/original/1335260967.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: Arial, Helvetica, sans-serif;"><img border="0" height="207" src="http://pix.toile-libre.org/upload/original/1335260967.png" width="320" /></span></a></div><div class="separator" style="clear: both; text-align: center;"><span style="font-family: Arial, Helvetica, sans-serif;"><br /></span></div><div class="separator" style="clear: both; text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif;">- The Guy Who Read Little</span></div></div></div>
+</div>
