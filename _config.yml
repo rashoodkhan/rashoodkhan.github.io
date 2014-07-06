@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         rdiscount
+markdown:         redcarpet 
 pygments:         true
 
 # Permalinks
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://rashoodkhan.github.io
+  repo:           https://github.com/rashoodkhan/rashoodkhan.github.io
