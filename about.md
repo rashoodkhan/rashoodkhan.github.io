@@ -7,7 +7,7 @@ title: About
   Hey there!
 </p>
 
-I am a Computer Science & Engineering student at National Institute of Technology, Warangal (India), presently in my third(pre-final) year of study.
+I am a Computer Science & Engineering graduate working with [Yellow Messenger](https://www.yellowmessenger.com).
 
 *Programmer by choice* - I have been programming for about 4 years now. Wrote my first line of code in Visual Basic and then moved to learning Java as a subject in school. Although at that time most of OOP didn't make sense, but today its one powerful concept I use for everyday problem solving. I propagate Object Oriented Programming and consider everything as an Object in this world!
 
